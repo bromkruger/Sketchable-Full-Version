@@ -247,4 +247,4 @@ This repository serves as the official landing page for Sketchable. The software
 **Get the most recent version of Sketchable today!**
 
 ---
-**Last updated:** 2026-09-30 22:55:11 UTC
+**Last updated:** 2026-10-01 01:59:08 UTC
